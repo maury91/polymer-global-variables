@@ -1,5 +1,5 @@
 {
-  "name": "polymer-global-variables",
+  "name": "polymer-selective-global-variables",
   "version": "1.0.2",
   "description": "Polymer hack to share variables in every polymer element instance that requires global variables in your project",
   "main": "dist/polymer-global-variables.js",
