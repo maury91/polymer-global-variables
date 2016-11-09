@@ -17,7 +17,7 @@ This hack is based on the one made by ivanrod, the main difference is that the o
 With bower do:
 
 ```bash
-$ bower install --save maury91/polymer-global-variables
+$ bower install --save polymer-selective-global-variables
 ```
 
 Import the `polymer-global-variables.js` or `polymer-global-variables.min.js` file in your project main file:
